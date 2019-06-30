@@ -1,0 +1,23 @@
+{
+  "name": "weather-app",
+  "version": "1.0.0",
+  "description": "Web-app for checking weather",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/h182675/WeatherApp.git"
+  },
+  "keywords": [
+    "Node.js",
+    "Express"
+  ],
+  "author": "Daniel Pettersen",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/h182675/WeatherApp/issues"
+  },
+  "homepage": "https://github.com/h182675/WeatherApp#readme"
+}
