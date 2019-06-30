@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/h182675/WeatherApp/issues"
   },
-  "homepage": "https://github.com/h182675/WeatherApp#readme"
+  "homepage": "https://github.com/h182675/WeatherApp#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
