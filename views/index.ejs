@@ -14,6 +14,15 @@
             <input name="city" type="text" class="ghost-input" placeholder="Enter a City" required>
             <input type="submit" class="ghost-button" value="Get Weather">
         </form>
+        <% var weather;
+        if(weather !== null){ %>
+            <p><%= weather %></p>
+        <% } %>
+
+        <% var error;
+        if(error !== null){ %>
+            <p><%= error %></p>
+        <% } %>
     </fieldset>
 </div>
 </body>
