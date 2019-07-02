@@ -8,6 +8,8 @@ service. Uses express on node.js.
 - Requires Node.js.
 - Uses NPM
 - ```npm install``` to install the required packages.
+- Requires an API key from https://openweathermap.org/
+- Put the Key in ApiKey.json file in format ```{"ApiKey":"key"}```
 
 ---
 ##### Learning outcomes:
